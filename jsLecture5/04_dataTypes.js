@@ -1,4 +1,4 @@
-// *******operaton*********//
+ // *******operaton*********//
 
 let value = 4
 let negValue = -value // -(minus ky sign sy) sy koi bhi value minus me convert ho jati hy  jesy yahan value sy pehly minus lga diya
